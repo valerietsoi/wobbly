@@ -1,0 +1,12 @@
+LTO_enable = yes
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+
+VIAL_INSECURE = yes
+
+BOOTMAGIC_ENABLE = yes
+
+
+TAP_DANCE_ENABLE = yes
+QMK_SETTINGS = no
+KEY_OVERRIDE_ENABLE = no
