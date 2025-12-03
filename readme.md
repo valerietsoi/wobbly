@@ -53,9 +53,11 @@ For more information on configuring keymaps/macros and enabling/disabling featur
 | m2 x 8 mm hex bolt | 6 | 
 | top case | 1 | 
 | bottom case | 1 |
-| mechanical switch | 4 |  
+| mechanical switch | 4 | 
+| 1N4148 diodes | 4 |  
 | 2u keycaps | 4 | 
 | plate mounted stabilisers (optional) | 4 | 
+| heat shrink tubing (optional) | some | 
 
 <br>
 
